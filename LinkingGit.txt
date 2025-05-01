@@ -1,0 +1,77 @@
+# making a git website script
+## installing git
+
+# installing homebrew on MacOS
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+#Run these commands in your terminal to add Homebrew to your PATH: (from homebrew instructions)
+    echo >> /Users/nelliebravo/.bash_profile
+    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/nelliebravo/.bash_profile
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+    
+# actual code I ran to connect path (from chatgpt)
+ echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+ eval "$(/opt/homebrew/bin/brew shellenv)"
+ 
+ # check version (confirmation homebrew is installed and working properly)
+  brew --version
+  brew doctor #troubleshoots and advises if anything needs update
+  
+  # link to install github desktop 
+  	## visual interface for working with git and github
+  	#https://desktop.github.com
+  	
+# install git
+brew install git
+git --version
+  	
+# Run these in your terminal to identify yourself:
+  git config --global user.name "Your Full Name"
+  git config --global user.email "you@example.com"
+
+# confirm settings 
+git config --global --list
+
+# basic terminal commands
+ls ##list files in current directory
+cd foldername ##must be in the current directory cannot skip
+cd .. ##goes up one level in the parent directory
+cd ~ ##goes to home directory
+cd /path/to/folder ##can go to folder in myfinder, right click, get info to get path
+pwd ##shows current directory path
+
+# make working directory
+mkdir my-cv-website
+# enter directory
+cd my-cv-website 
+
+# Linking Rstudio project .Rproj to Git
+## tools -> global options -> Git/SVN
+### git executable: /opt/homebrew/bin/git
+### rest can be left as is
+# make a new project in the working directory previously created
+## file -> new project -> new directory
+### browse -> pick my-cv-website folder 
+#### check "create a git repository" and finish
+
+
+# initialize git
+git init
+
+# create repository on github
+##link https://github.com/username
+
+# connecting repositories 
+git remote add origin https://github.com/marianellieb/cv-website.git
+git add .
+git push -u origin main
+
+
+# install quarto
+##link https://quarto.org/docs/get-started/
+
+# in Rstudio consol
+install.packages("quarto")
+
+# in Rstudio terminal
+quarto create-project 
