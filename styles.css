@@ -1,0 +1,83 @@
+
+/* Image styling */
+.fancy-img {
+  border: 4px dashed #c8e6c9; /* soft green */
+  border-radius: 16px;
+  padding: 6px;
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.1);
+  background-color: #fdf6ec; /* light beige background */
+  transition: transform 0.2s ease;
+}
+
+.fancy-img:hover {
+  transform: scale(1.03);
+}
+
+/* Text sections */
+body {
+  font-family: 'Kalam';
+  background-color: #fffaf5;
+  color: #333;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #6d6875; /* muted purple */
+}
+
+/* Custom grid wrapper for collage */
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 1em;
+}
+
+.image-grid img {
+  border: 3px solid #f7cad0; /* soft pink */
+  border-radius: 12px;
+  padding: 4px;
+  background-color: #fefae0; /* pale yellow */
+}
+
+/* Links */
+a {
+  color: #588157; /* earthy green */
+}
+a:hover {
+  color: #9a031e; /* berry red */
+}
+
+.polaroid {
+  background-color: white;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: fit-content;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
+  margin: 10px;
+  text-align: center;
+  font-family: 'Kalam', cursive;
+  color: #6d6875;
+  font-size: 0.85em;
+}
+.polaroid img {
+  display: block;
+  width: 260px;
+  margin-bottom: 8px;
+}
+
+.soft-pink-img {
+  border: 4px dashed #f7cad0;       /* soft pink border */
+  border-radius: 16px;
+  padding: 6px;
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.1);
+  background-color: #fdf6ec;       /* soft cream background */
+  transition: transform 0.2s ease;
+}
+
+.soft-pink-img:hover {
+  transform: scale(1.03);
+}
+

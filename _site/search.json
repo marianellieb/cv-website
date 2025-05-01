@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "📧 marianellieb@cpp.edu 📧 marianellieb@gmail.com 💻 GitHub 🌐 LinkedIn\n\n\n\n📄 Download my CV (PDF)"
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Welcome!",
+    "section": "Summary",
+    "text": "Summary\nI am a graduate student in the Biological Sciences department - Biological Sciences at Cal Poly Pomona\n- Interested in plant ecology, science communication, and environmental justice\n- Skilled in R, data visualization, and experimental design"
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "About Me",
+    "section": "",
+    "text": "📄 Download my resume (PDF)"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Welcome",
+    "section": "",
+    "text": "📧 marianellieb@cpp.edu\n💻 GitHub\n🌐 LinkedIn\n\n\n  \n\nHi! I’m Marianellie Bravo — a dedicated educator and researcher with a background in biological sciences and a passion for making science accessible and engaging. Experienced teaching assistant committed to fostering inclusive learning environments, supporting student success, and collaborating on innovative curriculum. Skilled in data analysis and visualization, bringing a unique perspective to STEM instruction.\n\n\n\nMy Photo"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education and Experience",
+    "section": "",
+    "text": "Thesis: A Study to Identify Candidate Genes Within the Homoebox Family that Play a Role in Carpel Development in Aquilegia Advisor: Dr. Bharti Sharma\n\n\n\n\n\n\n• Dean’s List: 2019, 2022. 2023"
+  },
+  {
+    "objectID": "Code.html",
+    "href": "Code.html",
+    "title": "Code & Files",
+    "section": "",
+    "text": "This page includes all the source files I used to create and style this visual CV website.\n\n\n\n🧠 index.qmd — About Me and Contact section\n🎓 education.qmd — Education and Experience\n📚 publications.qmd — Publications and Presentations\n💻 code.qmd — This page\n\n\n\n\n\n🧾 _quarto.yml — Website structure and theme settings\n🎨 styles.css — Custom styles (borders, fonts, colors)\n\n\n\n\n\n📂 images/ — Photos and graphics used throughout the site\n\n\n\n\nYou can also view or clone the full source on GitHub: github.com/marianellieb/cv-website"
+  },
+  {
+    "objectID": "index.html#traditional-cv",
+    "href": "index.html#traditional-cv",
+    "title": "Welcome!",
+    "section": "",
+    "text": "📄 Download my CV (PDF)"
+  },
+  {
+    "objectID": "index.html#contact-info",
+    "href": "index.html#contact-info",
+    "title": "Welcome!",
+    "section": "",
+    "text": "📧 marianellieb@cpp.edu 📧 marianellieb@gmail.com 💻 GitHub 🌐 LinkedIn"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome!",
+    "section": "About Me",
+    "text": "About Me\n\n\nHi! I’m Marianellie Bravo — a dedicated educator and researcher with a background in biological sciences and a passion for making science accessible and engaging.\nExperienced teaching assistant committed to fostering inclusive learning environments, supporting student success, and collaborating on innovative curriculum. Skilled in data analysis and visualization, bringing a unique perspective to STEM instruction."
+  },
+  {
+    "objectID": "index.html#photo-collage",
+    "href": "index.html#photo-collage",
+    "title": "Welcome!",
+    "section": "Photo Collage",
+    "text": "Photo Collage"
+  },
+  {
+    "objectID": "index.html#photos-by-me",
+    "href": "index.html#photos-by-me",
+    "title": "Welcome!",
+    "section": "Photos by Me!",
+    "text": "Photos by Me!\n\n\n Mutated Delphinium\n\n\n Aquilegia Coerulea at the CPP greenhouse\n\n\n In the Wild, Utah, CA"
+  },
+  {
+    "objectID": "index.html#current-step-of-my-journey",
+    "href": "index.html#current-step-of-my-journey",
+    "title": "Welcome!",
+    "section": "Current Step of My Journey",
+    "text": "Current Step of My Journey\nI am a graduate student in the Biological Sciences Department at Cal Poly Pomona. I am in the Sharma lab and we study Aquilegia and Delphinium (pictured below). We utilize transcriptomics to determine the genes that play crucial roles in seed formation in early-diverging eudicots."
+  },
+  {
+    "objectID": "index.html#i-am-a-graduate-student-in-the-biological-sciences-department-at-cal-poly-pomona.-i-am-in-the-sharma-lab-and-we-work-with-aquilegia-and-delphinium-pictured-below.-we-utilize-transcriptomics-to-determine-the-genes-that-play-crucial-roles-in-seed-formation-in-early-diverging-eudicots.",
+    "href": "index.html#i-am-a-graduate-student-in-the-biological-sciences-department-at-cal-poly-pomona.-i-am-in-the-sharma-lab-and-we-work-with-aquilegia-and-delphinium-pictured-below.-we-utilize-transcriptomics-to-determine-the-genes-that-play-crucial-roles-in-seed-formation-in-early-diverging-eudicots.",
+    "title": "Welcome!",
+    "section": "I am a graduate student in the Biological Sciences Department at Cal Poly Pomona. I am in the Sharma lab and we work with Aquilegia and Delphinium (pictured below). We utilize transcriptomics to determine the genes that play crucial roles in seed formation in early-diverging eudicots.",
+    "text": "I am a graduate student in the Biological Sciences Department at Cal Poly Pomona. I am in the Sharma lab and we work with Aquilegia and Delphinium (pictured below). We utilize transcriptomics to determine the genes that play crucial roles in seed formation in early-diverging eudicots."
+  },
+  {
+    "objectID": "education.html#publications",
+    "href": "education.html#publications",
+    "title": "Education and Experience",
+    "section": "Publications",
+    "text": "Publications\n\n“Comparative case study of evolutionary insights and floral complexity in key early-diverging eudicot Ranunculales models” – [Frontiers in Plant Science, 2024]\n“Delphinium as a model for development and evolution of complex zygomorphic flowers” - [Frontiers in Plant Science, 2024]"
+  },
+  {
+    "objectID": "education.html#conferences-symposiums",
+    "href": "education.html#conferences-symposiums",
+    "title": "Education and Experience",
+    "section": "Conferences & Symposiums",
+    "text": "Conferences & Symposiums\n\n(Poster) Marianellie Bravo, Rene K. Romo, Ana Alcaraz Echeveste, and Christian Suarez “Pre- and Post-Fertilization Molecular Dynamics in Aquilegia Carpel Development​” Agriculture Research Institute 2025 Showcase – California Polytechnic State University – Pomona (April 2025)\n(Oral) Marianellie Bravo “Identifying Conserved Genes in Pre- and Post-Pollinated Carpels in Aquilegia” Agriculture Research Institute Fellowship, Workshop 4 - California Polytechnic State University – Pomona (April 2025)\n(Poster) Marianellie Bravo, Rene K. Romo, Ana Alcaraz Echeveste, and Christian Suarez “A Study to Identify Homeobox Genes in Pre- and Post-Pollinated Carpels in Aquilegia” 13th Annual Cal Poly Pomona Student Research Conference (RSCA) – California Polytechnic State University – Pomona (Mar 2025)\n(Oral) Marianellie Bravo “Using Differential Gene Expression to Highlight Genes Responsible for Carpel Development and Seed Formation in Aquilegia” Ronald E. McNair Scholars Undergraduate Research Symposium – California Polytechnic State University – Pomona (May 2024)\n(Oral) Marianellie Bravo “A Study to Identify Homeobox Genes in Pre- and Post-Pollinated Carpels in Aquilegia” 12th Annual Cal Poly Pomona Student Research Conference (RSCA) – California Polytechnic State University – Pomona (Mar 2024)\n(Poster) Rene K. Romo, Mankirat K. Pandher, and Marianellie Bravo “A Study to Identify MADS-box Genes in Pre- and Post-Pollinated Carpels in Aquilegia” 12th Annual Cal Poly Pomona Student Research Conference (RSCA) – California Polytechnic State University – Pomona (Mar 2024)"
+  },
+  {
+    "objectID": "education.html#education",
+    "href": "education.html#education",
+    "title": "Education and Experience",
+    "section": "",
+    "text": "Thesis: A Study to Identify Candidate Genes in Pre- and Post-Pollinated Carpels in Aquilegia\nAdvisor: Dr. Bharti Sharma\n\n\n\n\n\n\n• Dean’s List: 2019, 2022. 2023\n\n\n\n\n\n“Comparative case study of evolutionary insights and floral complexity in key early-diverging eudicot Ranunculales models” – [Frontiers in Plant Science, 2024]\n“Delphinium as a model for development and evolution of complex zygomorphic flowers” - [Frontiers in Plant Science, 2024]"
+  },
+  {
+    "objectID": "education.html#education-m.s.-biology.-california-state-polytechnic-university",
+    "href": "education.html#education-m.s.-biology.-california-state-polytechnic-university",
+    "title": "Education and Experience",
+    "section": "",
+    "text": "Thesis: A Study to Identify Candidate Genes in Pre- and Post-Pollinated Carpels in Aquilegia\nAdvisor: Dr. Bharti Sharma\nB.S. Biology, California State Polytechnic University, Pomona 2019-2023\n• Dean’s List: 2019, 2022. 2023\nPublications\n\n“Title of Your Paper” – [Journal Name, Year]\nLink to publication"
+  },
+  {
+    "objectID": "education.html#degrees",
+    "href": "education.html#degrees",
+    "title": "Education and Experience",
+    "section": "",
+    "text": "Thesis: A Study to Identify Candidate Genes Within the Homoebox Family that Play a Role in Carpel Development in Aquilegia Advisor: Dr. Bharti Sharma\n\n\n\n\n\n\n• Dean’s List: 2019, 2022. 2023"
+  },
+  {
+    "objectID": "Code.html#source-files-for-this-website",
+    "href": "Code.html#source-files-for-this-website",
+    "title": "Code & Files",
+    "section": "",
+    "text": "This page includes all the source files I used to create and style this visual CV website.\n\n\n\n🧠 index.qmd — About Me and Contact section\n🎓 education.qmd — Education and Experience\n📚 publications.qmd — Publications and Presentations\n💻 code.qmd — This page\n\n\n\n\n\n🧾 _quarto.yml — Website structure and theme settings\n🎨 styles.css — Custom styles (borders, fonts, colors)\n\n\n\n\n\n📂 images/ — Photos and graphics used throughout the site\n\n\n\n\nYou can also view or clone the full source on GitHub: github.com/marianellieb/cv-website"
+  }
+]

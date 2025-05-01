@@ -1,0 +1,28 @@
+---
+title: "Code & Files"
+format: html
+---
+
+## 💾 Source Files for This Website
+
+This page includes all the source files I used to create and style this visual CV website.
+
+### 📄 Quarto Content Files
+
+-   🧠 [index.qmd](index.qmd) — About Me and Contact section
+-   🎓 [education.qmd](education.qmd) — Education and Experience
+-   📚 [publications.qmd](publications.qmd) — Publications and Presentations
+-   💻 [code.qmd](code.qmd) — This page
+
+### 🧬 Configuration & Style
+
+-   🧾 [\_quarto.yml](_quarto.yml) — Website structure and theme settings
+-   🎨 [styles.css](styles.css) — Custom styles (borders, fonts, colors)
+
+### 🖼️ Images & Media
+
+-   📂 [images/](images/) — Photos and graphics used throughout the site
+
+### 🌐 Optional GitHub Repository
+
+You can also view or clone the full source on GitHub: [github.com/marianellieb/cv-website](https://github.com/marianellieb/cv-website)
