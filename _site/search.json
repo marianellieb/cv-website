@@ -28,18 +28,18 @@
     "text": "Conferences & Symposiums\n\n(Poster) Marianellie Bravo, Rene K. Romo, Ana Alcaraz Echeveste, and Christian Suarez “Pre- and Post-Fertilization Molecular Dynamics in Aquilegia Carpel Development​” Agriculture Research Institute 2025 Showcase – California Polytechnic State University – Pomona (April 2025)\n(Oral) Marianellie Bravo “Identifying Conserved Genes in Pre- and Post-Pollinated Carpels in Aquilegia” Agriculture Research Institute Fellowship, Workshop 4 - California Polytechnic State University – Pomona (April 2025)\n(Poster) Marianellie Bravo, Rene K. Romo, Ana Alcaraz Echeveste, and Christian Suarez “A Study to Identify Homeobox Genes in Pre- and Post-Pollinated Carpels in Aquilegia” 13th Annual Cal Poly Pomona Student Research Conference (RSCA) – California Polytechnic State University – Pomona (Mar 2025)\n(Oral) Marianellie Bravo “Using Differential Gene Expression to Highlight Genes Responsible for Carpel Development and Seed Formation in Aquilegia” Ronald E. McNair Scholars Undergraduate Research Symposium – California Polytechnic State University – Pomona (May 2024)\n(Oral) Marianellie Bravo “A Study to Identify Homeobox Genes in Pre- and Post-Pollinated Carpels in Aquilegia” 12th Annual Cal Poly Pomona Student Research Conference (RSCA) – California Polytechnic State University – Pomona (Mar 2024)\n(Poster) Rene K. Romo, Mankirat K. Pandher, and Marianellie Bravo “A Study to Identify MADS-box Genes in Pre- and Post-Pollinated Carpels in Aquilegia” 12th Annual Cal Poly Pomona Student Research Conference (RSCA) – California Polytechnic State University – Pomona (Mar 2024)"
   },
   {
-    "objectID": "Code.html",
-    "href": "Code.html",
+    "objectID": "code.html",
+    "href": "code.html",
     "title": "Code & Files",
     "section": "",
-    "text": "These are the files I used to build and customize this website. You can view the full source code and history at my GitHub repository.\n\n\n\n🧠 index.qmd — About Me and Contact section\n🎓 education.qmd — Education and Experience\n\n💻 code.qmd — This page\n\n\n\n\n\n🧾 _quarto.yml — Site structure and theming\n\n🎨 styles.css — Custom borders, colors, and fonts\n\n\n\n\n\n📂 images folder — Collage photos and profile image\n\n\n\n\n\n📄 Download LinkingGit.txt — Full setup instructions"
+    "text": "These are the files I used to build and customize this website. You can view the full source code and history at my GitHub repository.\n\n\n\n🧠 index.qmd — About Me and Contact section\n🎓 education.qmd — Education and Experience\n\n💻 code.qmd — This page\n\n\n\n\n\n🧾 _quarto.yml — Site structure and theming\n🎨 styles.css — Custom borders, colors, and fonts\n\n\n\n\n\n📂 images folder — Collage photos and profile image\n\n\n\n\n\n📄 Download LinkingGit.txt — Full setup instructions"
   },
   {
-    "objectID": "Code.html#source-files-on-github",
-    "href": "Code.html#source-files-on-github",
+    "objectID": "code.html#source-files-on-github",
+    "href": "code.html#source-files-on-github",
     "title": "Code & Files",
     "section": "",
-    "text": "These are the files I used to build and customize this website. You can view the full source code and history at my GitHub repository.\n\n\n\n🧠 index.qmd — About Me and Contact section\n🎓 education.qmd — Education and Experience\n\n💻 code.qmd — This page\n\n\n\n\n\n🧾 _quarto.yml — Site structure and theming\n\n🎨 styles.css — Custom borders, colors, and fonts\n\n\n\n\n\n📂 images folder — Collage photos and profile image\n\n\n\n\n\n📄 Download LinkingGit.txt — Full setup instructions"
+    "text": "These are the files I used to build and customize this website. You can view the full source code and history at my GitHub repository.\n\n\n\n🧠 index.qmd — About Me and Contact section\n🎓 education.qmd — Education and Experience\n\n💻 code.qmd — This page\n\n\n\n\n\n🧾 _quarto.yml — Site structure and theming\n🎨 styles.css — Custom borders, colors, and fonts\n\n\n\n\n\n📂 images folder — Collage photos and profile image\n\n\n\n\n\n📄 Download LinkingGit.txt — Full setup instructions"
   },
   {
     "objectID": "index.html",

@@ -15,7 +15,7 @@ These are the files I used to build and customize this website. You can view the
 
 ### 🧬 Configuration & Styling
 
--   🧾 [\_quarto.yml](https://github.com/marianellieb/cv-website/blob/main/_quarto.yml) — Site structure and theming\
+-   🧾 [\_quarto.yml](https://github.com/marianellieb/cv-website/blob/main/_quarto.yml) — Site structure and theming
 -   🎨 [styles.css](https://github.com/marianellieb/cv-website/blob/main/styles.css) — Custom borders, colors, and fonts
 
 ### 🖼️ Images

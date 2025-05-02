@@ -10,7 +10,7 @@ website:
       - text: "Education & Experience"
         href: education.qmd
       - text: "Code & Files"
-        href: Code.qmd
+        href: code.qmd
 
 format:
   html:
