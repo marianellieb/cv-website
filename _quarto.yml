@@ -9,7 +9,7 @@ website:
         href: index.qmd
       - text: "Education & Experience"
         href: education.qmd
-      - text: "Code"
+      - text: "Code & Files"
         href: Code.qmd
 
 format:

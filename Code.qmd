@@ -3,26 +3,25 @@ title: "Code & Files"
 format: html
 ---
 
-## 💾 Source Files for This Website
+## 💾 Source Files on GitHub
 
-This page includes all the source files I used to create and style this visual CV website.
+These are the files I used to build and customize this website. You can view the full source code and history at [my GitHub repository](https://github.com/marianellieb/cv-website).
 
 ### 📄 Quarto Content Files
 
--   🧠 [index.qmd](index.qmd) — About Me and Contact section
--   🎓 [education.qmd](education.qmd) — Education and Experience
--   📚 [publications.qmd](publications.qmd) — Publications and Presentations
--   💻 [code.qmd](code.qmd) — This page
+-   🧠 [index.qmd](https://github.com/marianellieb/cv-website/blob/main/index.qmd) — About Me and Contact section
+-   🎓 [education.qmd](https://github.com/marianellieb/cv-website/blob/main/education.qmd) — Education and Experience\
+-   💻 [code.qmd](https://github.com/marianellieb/cv-website/blob/main/code.qmd) — This page
 
-### 🧬 Configuration & Style
+### 🧬 Configuration & Styling
 
--   🧾 [\_quarto.yml](_quarto.yml) — Website structure and theme settings
--   🎨 [styles.css](styles.css) — Custom styles (borders, fonts, colors)
+-   🧾 [\_quarto.yml](https://github.com/marianellieb/cv-website/blob/main/_quarto.yml) — Site structure and theming\
+-   🎨 [styles.css](https://github.com/marianellieb/cv-website/blob/main/styles.css) — Custom borders, colors, and fonts
 
-### 🖼️ Images & Media
+### 🖼️ Images
 
--   📂 [images/](images/) — Photos and graphics used throughout the site
+-   📂 [images folder](https://github.com/marianellieb/cv-website/blob/main/images) — Collage photos and profile image
 
-### 🌐 Optional GitHub Repository
+### 💻 Getting statrted on MacOS
 
-You can also view or clone the full source on GitHub: [github.com/marianellieb/cv-website](https://github.com/marianellieb/cv-website)
+-   📄 [Download LinkingGit.txt](https://github.com/marianellieb/cv-website/blob/main/LinkingGit.txt) — Full setup instructions
